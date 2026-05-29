@@ -1,4 +1,4 @@
-# Dissertation - Biomedical Engineering 2020/2021
+# Dissertation Project - Biomedical Engineering 2020/2021
 ### Author 
 Ana Catarina Monteiro Magalhães
 
